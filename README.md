@@ -1,16 +1,13 @@
-## Hi there 👋
+Hey there! I'm Lakshya Kumar, currently pursuing BCA from Graphic Era Hill University, Dehradun. I'm also a web developer who is passionate about creating awesome websites and web applications. This is my README file for GitHub.
 
-<!--
-**lakshyakumar90/lakshyakumar90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- HTML
+- CSS
+- JavaScript
+- React
 
-Here are some ideas to get you started:
+## Contact
+You can reach out to me at [lakshyakumar5023@gmail.com](mailto:lakshyakumar5023@gmail.com) or connect with me on 
+[LinkedIn](https://www.linkedin.com/in/kumar-lakshya/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to get in touch if you have any questions or suggestions!

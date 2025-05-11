@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-I build **interactive, animated, and collaborative web apps** with a strong focus on **performance**, **real-time features**, and **aesthetic design**.
+I’m **Lakshya Kumar**, a passionate full-stack developer with a love for **clean UI/UX**, **real-time collaboration tools**, and **smooth animations**.
 
 - 🔭 Currently building: a real-time collaboration platform with **code editing**, **WebRTC**, and **whiteboard** tools  
 - ⚙️ Tech Stack: React, Node.js, MongoDB, GSAP, Socket.IO (Web Sockets) 

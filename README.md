@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lakshyakumar90/lakshyakumar90/assets/top-typing-animation.gif" alt="Thanks for visiting! Star any repo you like" />
+  <img src="https://raw.githubusercontent.com/lakshyakumar90/lakshyakumar90/main/assets/top-typing-animation.gif" alt="Thanks for visiting! Star any repo you like" />
 </div>
 
 <div align="center">
@@ -100,6 +100,6 @@ I’m **Lakshya Kumar**, a passionate full-stack developer with a love for **cle
 
 <div align="center">
   <div align="center">
-  <img src="https://raw.githubusercontent.com/lakshyakumar90/lakshyakumar90/assets/bottom-typing-animation.gif" alt="Thanks for visiting! Star any repo you like" />
+  <img src="https://raw.githubusercontent.com/lakshyakumar90/lakshyakumar90/main/assets/bottom-typing-animation.gif" alt="Thanks for visiting! Star any repo you like" />
 </div>
 </div>

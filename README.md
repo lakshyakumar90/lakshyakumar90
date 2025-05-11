@@ -1,6 +1,6 @@
-<h1 align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Lakshya Kumar+👋;Full-Stack+Developer+%7C+UI%2FUX+Enthusiast;React+%7C+Node+%7C+MongoDB+%7C+Animations&font=Fira%20Code&center=true&width=650&height=45&pause=1000&margin=auto" alt="Typing SVG" />
-</h1>
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding Gif" />
@@ -90,6 +90,6 @@ I’m **Lakshya Kumar**, a passionate full-stack developer with a love for **cle
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+visiting!+Star+🌟+any+repo+you+like&font=Fira%20Code&center=true&width=1000&height=40&pause=1000" />
-</p>
+</div>

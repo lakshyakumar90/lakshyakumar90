@@ -29,14 +29,7 @@ I’m **Lakshya Kumar**, a passionate full-stack developer with a love for **cle
 
 ## 💡 Projects
 
-### 🧑‍💻 Real-Time Collaboration Platform (In Progress)
-
-> An all-in-one real-time dev collaboration tool – think pair programming meets whiteboard.
-
-- 📹 WebRTC for audio/video collaboration
-- 🧠 WebContainers for running code in-browser
-- 🖊️ Shared whiteboard for visual brainstorming
-- 💬 Real-time chat and dev-focused UI
+### 🧑‍💻 Second Brain App
 
 ➡️ Coming Soon – [Stay Tuned!](#)
 

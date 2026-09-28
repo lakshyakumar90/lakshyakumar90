@@ -1,98 +1,75 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lakshyakumar90/lakshyakumar90/main/assets/top-typing-animation.gif" alt="Thanks for visiting! Star any repo you like" />
-</div>
+# hey, i'm Lakshya 👋
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding Gif" />
-</div>
+I build stuff.
 
----
+Sometimes because I need it.
 
-## 🚀 About Me
+Sometimes because I saw something cool and thought:
 
-I’m **Lakshya Kumar**, a passionate full-stack developer with a love for **clean UI/UX**, **real-time collaboration tools**, and **smooth animations**.
+**“yeah... I can probably build that.”**
 
-- 🔭 Currently building: a real-time collaboration platform with **code editing**, **WebRTC**, and **whiteboard** tools
-- ⚙️ Tech Stack: React, Node.js, MongoDB, GSAP, Socket.IO (Web Sockets)
-- 🌐 Hosting: AWS (EC2), Vercel, Docker, Render, Netlify
-- 🎨 I love crafting fluid animations and intuitive user interfaces
+That sentence has caused most of my GitHub activity.
 
----
+## currently
 
-## 🧰 Toolbox
+🎨 building an Excalidraw-style whiteboard from scratch
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,mongodb,websocket,aws,vercel,html,css,sass,figma,github,git,vite" />
-</p>
+🧠 figuring out canvas rendering, geometry, interactions & drawing systems
 
----
+⚙️ building full-stack apps with React / Next.js / Node.js / TypeScript
 
-## 💡 Projects
+🗄️ playing around with Supabase, APIs, databases and backend architecture
 
-### 🧑‍💻 Second Brain App
+🐛 occasionally spending an unreasonable amount of time fixing something that was broken by one line of code
 
-➡️ Coming Soon – [Stay Tuned!](#)
+## things i've built
 
----
+→ DevTinder — Tinder, but for developers
 
-### 💬 DevTinder – Chat with Devs
+→ Second Brain — a knowledge-management / AI project
 
-> Chat-focused platform to connect developers by skill and interest.
+→ Ophanim CRM — a much larger full-stack CRM system
 
-- 🔐 JWT & Cookie Auth
-- 🗨️ Real-time chat using Socket.IO
-- 👤 View/edit profile, send connection requests
-- 🌍 Hosted: EC2 backend, Vercel frontend
+→ AI / MERN experiments
 
-➡️ [Live Site](https://mini-project-devtinder.vercel.app/) | [Repo](https://github.com/lakshyakumar90/mini-project)
+→ various UI experiments, landing pages and “let me see if I can build this” projects
 
----
+## what i like
 
-### 🚗 Tesla Website Redesigned – Animated, Smooth, Responsive
+good UI  
+interesting engineering problems  
+breaking big problems into smaller problems  
+figuring out how things work underneath the abstraction  
+building instead of just watching tutorials
 
-> A visually rich Tesla homepage clone with GSAP-powered animations.
+## currently learning
 
-- 🎞️ Scroll animations with GSAP + SplitType
-- 🌀 Smooth scrolling (Lenis / LocomotiveScroll)
-- ⚡ Firebase Auth + React
-- 📱 Mobile-friendly and performance optimized
+more TypeScript  
+better backend architecture  
+systems thinking  
+canvas / graphics programming  
+and the ancient art of not introducing three new bugs while fixing one
 
-➡️ [Live Site](https://tesla-website-redesigned.vercel.app/) | [Repo](https://github.com/lakshyakumar90/Tesla-Website-Redesign)
+## github philosophy
 
----
+I don't really have one.
 
-### 🎬 TMDB Explorer – Discover Movies & TV Shows
+I just push code.
 
-> Built with TMDB API, this app delivers dynamic search and infinite scrolling.
+Sometimes it's beautiful.
 
-- 🔎 Trending, Popular, Detailed View
-- ⏳ Shimmer Loading UI
-- 🔄 Infinite Scroll
-- 🧰 Redux for data handling
+Sometimes it starts with:
 
-➡️ [Live Site](https://react-movie-app-using-api.vercel.app/) | [Repo](https://github.com/lakshyakumar90/React-movie-app-using-api)
+```txt
+okay this is temporary
+```
+
+and six months later it's somehow still there.
 
 ---
 
-## 📈 GitHub Stats
+📫 somewhere on the internet:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshyakumar90&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshyakumar90&theme=radical" width="400"/>
-</p>
+[LinkedIn](https://www.linkedin.com/in/kumar-lakshya/)
 
----
-
-## 📬 Contact Me
-
-- 📧 Email: [Lakshya Kumar](lakshyakumar5023@gmail.com)
-- 💼 LinkedIn : [LinkedIn - Lakshya Kumar](https://www.linkedin.com/in/kumar-lakshya/)
-- 🐦 Twitter: [Twitter - Lakshya Kumar](https://x.com/LakshyaKum67542)
-
----
-
-<div align="center">
-  <div align="center">
-  <img src="https://raw.githubusercontent.com/lakshyakumar90/lakshyakumar90/main/assets/bottom-typing-animation.gif" alt="Thanks for visiting! Star any repo you like" />
-</div>
-</div>
+[GitHub](https://github.com/lakshyakumar90)
